@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Input } from "./components/ui/input";
 import { Button } from "./components/ui/button";
 import { ChevronDown, ChevronUp, Trash2 } from "lucide-react";
-import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "./components/ui/tooltip";
+import { Tooltip, TooltipContent,  TooltipTrigger } from "./components/ui/tooltip";
 
 function App() {
   // awalnya kosong
